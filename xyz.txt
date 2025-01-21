@@ -1,0 +1,4 @@
+Key Takeaways 
+•	Git uses a three-stage architecture - working directory, staging area, and local repository to optimize change tracking.
+•	Key concepts like committing, branching, merging, and remotes enable powerful version control workflows.
+•	Git maintains an extensive history and provides commands like git log and git diff to analyze changes over time.
